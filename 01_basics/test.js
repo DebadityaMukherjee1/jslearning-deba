@@ -7,3 +7,6 @@ console.log(email)
 console.log(personname)
 console.table([accountID, email, personname])
 console.log(typeof accountID)
+age="1"
+num = 1
+console.log(age)
